@@ -1,5 +1,5 @@
 import random
-SEED = 8
+SEED = 8 #this seed is mainly for testing
 random.seed(SEED)
 def create(file):
     '''
